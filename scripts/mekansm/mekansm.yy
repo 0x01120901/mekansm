@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"cpu_functions",
+  "%Name":"mekansm",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"cpu_functions",
+  "name":"mekansm",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
